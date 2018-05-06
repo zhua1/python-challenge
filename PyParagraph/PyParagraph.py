@@ -36,10 +36,10 @@ print('Average Sentence Length: '+str(countSent))
 
 
 # =============================================================================
-# Paragraph Analysis
-# -----------------
-# Approximate Word Count: 122
-# Approximate Sentence Count: 5
-# Average Letter Count: 4.56557377049
-# Average Sentence Length: 24.4
+#Paragraph Analysis
+#------------------
+#Approximate Word Count: 120
+#Approximate Sentence Count: 5
+#Average Letter Count: 4.425
+#Average Sentence Length: 24.0
 # =============================================================================
